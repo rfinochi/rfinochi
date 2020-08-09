@@ -16,5 +16,4 @@ You can also read my blog at [shockbyte.net](https://shockbyte.net) or check my 
   - Twitter: [@rodolfof](https://twitter.com/rodolfof)
   - LinkedIn: [rodolfof](https://www.linkedin.com/in/rodolfof)
 
-
-  <a href="https://sourcerer.io/rfinochi"><img src="https://img.shields.io/badge/Go-261%20commits-orange.svg" alt=""></a>
+  <a href="https://sourcerer.io/rfinochi"><img src="https://img.shields.io/badge/Sourcerer-Profile-brightgreen?style=plastic" alt="Sourcerer Profile"></a>
