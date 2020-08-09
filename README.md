@@ -11,9 +11,11 @@ My favorite topic in computer science is the design and implementation of progra
 
 You can also read my blog at [shockbyte.net](https://shockbyte.net) or check my web site [rodolfof.me](http://rodolfof.me).
 
-- 💬 Ask me about Web Development, Compilers Design and Implementation, and Managing Software Engineering Teams
-- 📫 How to reach me: 
-  - Twitter: [@rodolfof](https://twitter.com/rodolfof)
-  - LinkedIn: [rodolfof](https://www.linkedin.com/in/rodolfof)
+💬 Ask me about Web Development, Compilers Design and Implementation, and Managing Software Engineering Teams
 
-  <a href="https://sourcerer.io/rfinochi"><img src="https://img.shields.io/badge/Sourcerer-Profile-brightgreen?style=plastic" alt="Sourcerer Profile"></a>
+📫 How to reach me: 
+
+![Twitter Follow](https://img.shields.io/twitter/follow/rodolfof?style=social)
+<a href="https://www.linkedin.com/in/rodolfof"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=plastic" alt="LinkedIn Profile"></a>
+<a href="https://sourcerer.io/rfinochi"><img src="https://img.shields.io/badge/Sourcerer-Profile-brightgreen?style=plastic" alt="Sourcerer Profile"></a>
+ 
