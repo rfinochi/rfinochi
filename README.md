@@ -16,5 +16,5 @@ You can also read my blog at [shockbyte.net](https://shockbyte.net) or check my 
 📫 How to reach me: 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rodolfof?style=social)](https://twitter.com/intent/follow?screen_name=rodolfof)
-[![LinkedIn Profile"](https://img.shields.io/badge/LinkedIn-Profile-blue?style=plastic)](https://www.linkedin.com/in/rodolfof)
+[![LinkedIn Profile"](https://img.shields.io/badge/LinkedIn-Profile-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/rodolfof)
 [![Sourcerer Profile"](https://img.shields.io/badge/Sourcerer-Profile-brightgreen?style=plastic)](https://sourcerer.io/rfinochi)
