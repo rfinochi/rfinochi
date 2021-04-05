@@ -18,3 +18,5 @@ You can also read my blog at [shockbyte.net](https://shockbyte.net) or check my 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rodolfof?style=social)](https://twitter.com/intent/follow?screen_name=rodolfof)
 [![LinkedIn Profile"](https://img.shields.io/badge/LinkedIn-Profile-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/rodolfof)
 [![Sourcerer Profile"](https://img.shields.io/badge/Sourcerer-Profile-brightgreen?style=plastic)](https://sourcerer.io/rfinochi)
+
+![Rodolfo Finochietti's Stats](https://github-readme-stats.vercel.app/api?username=rfinochi&show_icons=true&count_private=true&theme=dracula)
