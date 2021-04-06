@@ -22,7 +22,6 @@ You can also read my blog at [shockbyte.net](https://shockbyte.net) or check my 
 [![Messenger](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/rodolfo.eduardo.finochietti "Connect on Facebook Messenger")
 
 ---
-
 [![Sourcerer Profile](https://img.shields.io/badge/Sourcerer-Profile-brightgreen?style=plastic)](https://sourcerer.io/rfinochi)
 
 [![Rodolfo Finochietti's Stats](https://github-readme-stats.vercel.app/api?username=rfinochi&show_icons=true&count_private=true&theme=dracula)](https://github.com/rfinochi)
