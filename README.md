@@ -13,13 +13,17 @@ You can also read my blog at [shockbyte.net](https://shockbyte.net) or check my 
 
 💬 Ask me about Web Development, Compilers Design and Implementation, and Managing Software Engineering Teams
 
-📫 How to reach me: 
+📫 How to reach me:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/rodolfof?style=social)](https://twitter.com/intent/follow?screen_name=rodolfof)
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/rodolfof)
-[![Sourcerer Profile](https://img.shields.io/badge/Sourcerer-Profile-brightgreen?style=plastic)](https://sourcerer.io/rfinochi)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rodolfof?style=social)](https://twitter.com/intent/follow?screen_name=rodolfof "Connect via Twitter")
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rodolfof "Connect via LinkedIn")
+[![Gmail](https://img.shields.io/badge/-Email-c14438?style=fflatlat&logo=Gmail&logoColor=white)](mailto:rodolfof@shockbyte.software "Connect via Email")
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/rodolfof "Contact on Telegram")
+[![Messenger](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/rodolfo.eduardo.finochietti "Connect on Facebook Messenger")
 
 ---
+
+[![Sourcerer Profile](https://img.shields.io/badge/Sourcerer-Profile-brightgreen?style=plastic)](https://sourcerer.io/rfinochi)
 
 [![Rodolfo Finochietti's Stats](https://github-readme-stats.vercel.app/api?username=rfinochi&show_icons=true&count_private=true&theme=dracula)](https://github.com/rfinochi)
 
