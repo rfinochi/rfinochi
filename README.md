@@ -9,9 +9,9 @@ I'm a frequent speaker at conferences about software development and active coll
 
 My favorite topic in computer science is the design and implementation of programming language compilers.
 
-You can also read my blog at [shockbyte.net](https://shockbyte.net) or check my web site [rodolfof.me](http://rodolfof.me).
+You can also read my blog at [shockbyte.net](https://shockbyte.net) or check my web site at [rodolfof.me](http://rodolfof.me).
 
-💬 Ask me about Web Development, Compilers Design and Implementation, and Managing Software Engineering Teams
+💬 Ask me about Web Development, Compilers Design and Implementation, and Managing Software Engineering Teams.
 
 📫 How to reach me:
 
