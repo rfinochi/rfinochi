@@ -5,7 +5,7 @@ I am a computer programmer, marathon runner, speaker, and software engineer mana
 I have extensive experience in developing high-performance systems and manage large software development teams.
 
 
-I'm a frequent speaker at conferences about software development and active collaborator in the tech community. Google Glass Explorer from the early beginning, nine times [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/4034702?fullName=Rodolfo%20Finochietti) award winner, and the first Latin American engineer to develop holographic applications in the Microsoft Holographics Academy.
+I am a frequent speaker at conferences about software development and active collaborator in the tech community. Google Glass Explorer from the early beginning, nine times [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/4034702?fullName=Rodolfo%20Finochietti) award winner, and the first Latin American engineer to develop holographic applications in the Microsoft Holographics Academy.
 
 My favorite topic in computer science is the design and implementation of programming language compilers.
 
